@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://MonkeyTime.github.io/handbook-gdi74u/sitemap.xml
